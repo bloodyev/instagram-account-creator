@@ -3,4 +3,4 @@ instagram-account-creator
 
 ios request, last version
 
-## Telegram @tiktokpeppa - https://t.me/tiktokpeppa
+## Telegram @bloodyev - https://t.me/bloodyev
